@@ -1,1 +1,1 @@
-print("hello world")
+#no class work
