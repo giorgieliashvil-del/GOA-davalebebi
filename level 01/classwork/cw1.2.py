@@ -9,4 +9,3 @@ print(last_name)
 print(age)
 print(score)
 print(points)
-

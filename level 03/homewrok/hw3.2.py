@@ -13,4 +13,3 @@ user_dream_proffesion = input ("please enter your dream profession: ")
 # და შევინახე "user_favorite_place_to_live" ცვლადში
 user_favorite_place_to_live = input ("please enter your favorite place to live: ")
 
-
