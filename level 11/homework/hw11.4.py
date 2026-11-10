@@ -4,15 +4,9 @@
 
 ages = [15, 16, 17, 18, 19, 20, 21, 22, 23, 34]
 
-
-for number in ages:
-    print(number)
-
-
-user_age = int(input("please enter your age: "))
-if user_age >= 18:
-    print("User is adult!")
-
-else:
-    print("User is not adult!")
+for age in ages:
+    if age >= 18:
+        print(age, "User is Adult!")
+    else:
+        print(age, "User is not Adult!")
 
