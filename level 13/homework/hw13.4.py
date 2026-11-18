@@ -2,7 +2,7 @@
 
 sentence = "he is very bad student"
 
-print(sentence.find("is"))
+print(sentence.find("i"))
 
 print(len(sentence))
 
